@@ -45,4 +45,4 @@ The program includes an ASCII art logo that is generated using a custom class ca
 - Python 3.x
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
